@@ -82,6 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravel moo
+                    echo "<h2>PHP is Fun!</h2>";
                 </div>
 
                 <div class="links">

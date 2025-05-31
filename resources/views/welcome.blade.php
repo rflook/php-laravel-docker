@@ -84,7 +84,7 @@
                     Laravel moo
                    
                 </div>
-                 echo "<h2>PHP is Fun!</h2>";
+                 @php echo "<h2>PHP is Fun!</h2>"; @endphp
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
